@@ -12,7 +12,7 @@
     "expo": "~53.0.9",
     "expo-status-bar": "~2.2.3",
     "react": "19.0.0",
-    "react-native": "0.79.2",
+    "react-native": "0.79.5",
     "expo-sqlite": "~15.2.9",
     "react-dom": "19.0.0",
     "react-native-web": "^0.20.0",
