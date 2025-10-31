@@ -66,9 +66,10 @@ Toggle between:
 - **Async (Works)** - `SQLiteProvider` with async API
 - **Sync (Breaks)** - `SQLiteProvider` with sync API (requires proxy with headers)
 
-|  |  |
-|--|--|
-| <img width="1112" height="686" alt="CleanShot 2025-10-31 at 15 44 50@2x" src="https://github.com/user-attachments/assets/a9c16556-ce70-4fb1-8066-484a85431d64" /> | <img width="1112" height="656" alt="CleanShot 2025-10-31 at 15 45 33@2x" src="https://github.com/user-attachments/assets/e342dbf3-a58d-414a-9d27-8be31448abe5" /> |
+| not using proxy | not using proxy | using proxy | 
+|--|--|--|
+| <img width="1112" height="686" alt="CleanShot 2025-10-31 at 15 44 50@2x" src="https://github.com/user-attachments/assets/a9c16556-ce70-4fb1-8066-484a85431d64" /> | <img width="1132" height="654" alt="CleanShot 2025-10-31 at 15 47 44@2x" src="https://github.com/user-attachments/assets/7edb77d2-0d65-4864-9e9b-bfdaf38c647f" /> | <img width="1112" height="656" alt="CleanShot 2025-10-31 at 15 45 33@2x" src="https://github.com/user-attachments/assets/e342dbf3-a58d-414a-9d27-8be31448abe5" /> |
+
 
 ## Security Note
 
